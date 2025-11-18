@@ -1,0 +1,7 @@
+langchain==0.1.12
+langchain-community==0.0.28
+chromadb==0.4.24
+sentence-transformers==2.5.1
+transformers==4.38.1
+torch
+numpy

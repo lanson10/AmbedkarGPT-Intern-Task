@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+*.egg-info/
+
+# Chroma DB (local vectordb)
+db/
+chroma-*
+
+# Ollama & models (do NOT upload model files)
+*.bin
+*.pt
+models/
