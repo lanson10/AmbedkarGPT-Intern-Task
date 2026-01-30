@@ -1,4 +1,4 @@
-# AmbedkarGPT – Intern Assignment (Kalpit Pvt Ltd)
+# AmbedkarGPT 
 
 This project is a simple **local RAG (Retrieval Augmented Generation)** Q&A system built using:
 
